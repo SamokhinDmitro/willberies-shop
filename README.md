@@ -22,9 +22,9 @@
  * функциональный стиль 'main.js'
  * ООП Class ES6 'main-oop.js'
  
- Результат работы проекта [Landing Page](https://samokhindmitro.github.io/willberies-shop/) <br>
+ Результат работы проекта [Project Page](https://samokhindmitro.github.io/willberies-shop/) <br>
  
- Бесплатный Хостинг nodejs [Heroku.com](https://herokuapp.com/),
+ Бесплатный Хостинг nodejs [Heroku.com](https://herokuapp.com/), <br>
  Бесплатный Хостинг MySql [Remotemysql.com](http://remotemysql.com),
  
- [Скриншот проекта](screen/main-page.png).
+ [Project screen](screen/main-page.png).
